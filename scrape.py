@@ -104,17 +104,31 @@ def build(rows: list[list[str]], snapshot_at: str) -> list[dict]:
     return out
 
 
+def fail(msg: str) -> int:
+    # "::error::" lines show up as annotations on the GitHub Actions run.
+    print(f"::error::{msg}")
+    print(msg, file=sys.stderr)
+    return 1
+
+
 def main() -> int:
     now = datetime.now(SGT).replace(second=0, microsecond=0)
     snapshot_at = now.isoformat()
-    html = fetch_html()
+    try:
+        html = fetch_html()
+    except requests.RequestException as exc:
+        return fail(f"Could not load the schedule page: {type(exc).__name__}: {str(exc)[:300]}")
     expected, raw = parse(html)
     if not raw:
-        print("No schedule rows found on the page; the layout may have changed.", file=sys.stderr)
-        return 1
+        soup = BeautifulSoup(html, "html.parser")
+        title = soup.title.get_text(strip=True) if soup.title else ""
+        tables = len(soup.find_all("table"))
+        return fail(
+            f"No schedule rows found (page title {title!r}, {len(html)} bytes, {tables} tables, "
+            f"'Course Title' present: {'Course Title' in html}). The layout may have changed."
+        )
     if expected is not None and expected != len(raw):
-        print(f"Page says {expected} records but {len(raw)} rows were read.", file=sys.stderr)
-        return 1
+        return fail(f"Page says {expected} records but {len(raw)} rows were read.")
     rows = build(raw, snapshot_at)
     snap = {
         "snapshot_at": snapshot_at,
