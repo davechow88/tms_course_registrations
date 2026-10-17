@@ -68,7 +68,8 @@ def parse(html: str) -> tuple[int | None, list[list[str]]]:
     m = re.search(r"Showing\s+\d+\s+to\s+\d+\s+of\s+(\d+)\s+records", text)
     expected = int(m.group(1)) if m else None
     rows: list[list[str]] = []
-    for tr in soup.select("table tbody tr"):
+    # The served HTML has no <tbody> (browsers add one), so look at every row.
+    for tr in soup.select("table tr"):
         cells = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
         if len(cells) >= 8:
             rows.append(cells)
