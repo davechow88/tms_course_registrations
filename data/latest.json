@@ -1,13 +1,13 @@
 {
- "snapshot_at": "2026-10-19T09:30:00+08:00",
+ "snapshot_at": "2026-10-20T08:23:00+08:00",
  "source": "https://tms.ktree.com.sg/CourseSchedule/Index",
- "count": 114,
- "places_total": 1549,
- "fully_booked": 5,
+ "count": 113,
+ "places_total": 1515,
+ "fully_booked": 4,
  "rows": [
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-10-19|2026-10-21",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -16,11 +16,11 @@
    "start": "2026-10-19",
    "end": "2026-10-21",
    "remarks": "-",
-   "places": 11
+   "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "ISP|Day|2026-10-19|2026-10-21",
    "code": "ISP",
    "course": "PWM-Security: Capability Development (Induct Security Personnel)(ISP)",
@@ -29,11 +29,11 @@
    "start": "2026-10-19",
    "end": "2026-10-21",
    "remarks": "-",
-   "places": 9
+   "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-10-19|2026-10-21",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -42,24 +42,11 @@
    "start": "2026-10-19",
    "end": "2026-10-21",
    "remarks": "-",
-   "places": 8
+   "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
-   "session": "CSSPB|Day|2026-10-19|2026-10-20",
-   "code": "CSSPB",
-   "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
-   "level": "Events Security Courses",
-   "timing": "Day",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "remarks": "-",
-   "places": 0
-  },
-  {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-10-19|2026-10-21",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -68,11 +55,11 @@
    "start": "2026-10-19",
    "end": "2026-10-21",
    "remarks": "Express",
-   "places": 1
+   "places": 3
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-10-20|2026-10-22",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -81,11 +68,11 @@
    "start": "2026-10-20",
    "end": "2026-10-22",
    "remarks": "-",
-   "places": 0
+   "places": 2
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-10-20|2026-10-22",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -94,11 +81,11 @@
    "start": "2026-10-20",
    "end": "2026-10-22",
    "remarks": "Express",
-   "places": 13
+   "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "DSE|Day|2026-10-21|2026-10-23",
    "code": "DSE",
    "course": "PWM-Security: Access Control Management (Deploy Security Equipment)(DSE)",
@@ -107,11 +94,11 @@
    "start": "2026-10-21",
    "end": "2026-10-23",
    "remarks": "-",
-   "places": 7
+   "places": 6
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PHVSS|Day|2026-10-21|2026-10-24",
    "code": "PHVSS",
    "course": "Provide Hospitality and Venues Safety and Security (PHVSS)",
@@ -123,8 +110,8 @@
    "places": 6
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-10-22|2026-10-24",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -133,11 +120,11 @@
    "start": "2026-10-22",
    "end": "2026-10-24",
    "remarks": "-",
-   "places": 13
+   "places": 9
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-10-22|2026-10-23",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -146,11 +133,11 @@
    "start": "2026-10-22",
    "end": "2026-10-23",
    "remarks": "-",
-   "places": 13
+   "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-10-22|2026-10-24",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -159,11 +146,11 @@
    "start": "2026-10-22",
    "end": "2026-10-24",
    "remarks": "-",
-   "places": 2
+   "places": 1
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-10-23|2026-10-24",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -175,8 +162,8 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "IIMP|Day|2026-10-23|2026-10-23",
    "code": "IIMP",
    "course": "Implement Incident Management Process (IIMP)",
@@ -188,8 +175,8 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-10-24|2026-10-25",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -198,11 +185,11 @@
    "start": "2026-10-24",
    "end": "2026-10-25",
    "remarks": "Weekend Express",
-   "places": 13
+   "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-10-24|2026-10-25",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -214,8 +201,8 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-10-26|2026-10-28",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -227,8 +214,8 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PSDLF|Day|2026-10-26|2026-10-28",
    "code": "PSDLF",
    "course": "PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)(PSDLF)",
@@ -240,8 +227,8 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "COBD|Day|2026-10-26|2026-10-27",
    "code": "COBD",
    "course": "PWM-Security: Manpower Planning (Conduct Operation Briefing and Debriefing)(COBD)",
@@ -253,8 +240,8 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-10-26|2026-10-29",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -263,11 +250,11 @@
    "start": "2026-10-26",
    "end": "2026-10-29",
    "remarks": "-",
-   "places": 15
+   "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Evening|2026-10-26|2026-10-31",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -276,11 +263,11 @@
    "start": "2026-10-26",
    "end": "2026-10-31",
    "remarks": "Evening Class",
-   "places": 15
+   "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-10-26|2026-10-27",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -289,11 +276,11 @@
    "start": "2026-10-26",
    "end": "2026-10-27",
    "remarks": "-",
-   "places": 19
+   "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-10-26|2026-10-28",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -305,8 +292,8 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-10-27|2026-10-29",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -318,8 +305,8 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Day|2026-10-27|2026-10-30",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -328,11 +315,11 @@
    "start": "2026-10-27",
    "end": "2026-10-30",
    "remarks": "-",
-   "places": 12
+   "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-10-28|2026-10-30",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -341,11 +328,11 @@
    "start": "2026-10-28",
    "end": "2026-10-30",
    "remarks": "Express",
-   "places": 9
+   "places": 0
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "SUP|Day|2026-10-29|2026-10-31",
    "code": "SUP",
    "course": "PWM-Security: Guard and Patrol (Supervise Security Officers)(SUP)",
@@ -357,8 +344,8 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-10-29|2026-10-31",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -370,8 +357,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-10-29|2026-10-31",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -383,8 +370,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-10-30|2026-11-01",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -396,8 +383,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PPPS|Day|2026-10-30|2026-10-31",
    "code": "PPPS",
    "course": "Executive Protection (Provide People Protection Services)(PPPS)",
@@ -409,8 +396,8 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-10-30|2026-11-01",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -419,11 +406,11 @@
    "start": "2026-10-30",
    "end": "2026-11-01",
    "remarks": "-",
-   "places": 17
+   "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-10-31|2026-11-01",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -432,11 +419,11 @@
    "start": "2026-10-31",
    "end": "2026-11-01",
    "remarks": "Weekend Express",
-   "places": 8
+   "places": 7
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PMRDCCC|Day|2026-10-31|2026-11-01",
    "code": "PMRDCCC",
    "course": "PWM-Security: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)(PMRDCCC)",
@@ -448,8 +435,8 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Day|2026-11-02|2026-11-04",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -461,8 +448,8 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Evening|2026-11-02|2026-11-07",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -471,11 +458,11 @@
    "start": "2026-11-02",
    "end": "2026-11-07",
    "remarks": "Evening Class",
-   "places": 12
+   "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-02|2026-11-04",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -484,11 +471,11 @@
    "start": "2026-11-02",
    "end": "2026-11-04",
    "remarks": "-",
-   "places": 6
+   "places": 4
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-02|2026-11-04",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -497,11 +484,11 @@
    "start": "2026-11-02",
    "end": "2026-11-04",
    "remarks": "-",
-   "places": 11
+   "places": 9
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-11-02|2026-11-04",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -513,8 +500,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-02|2026-11-03",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -526,8 +513,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-11-02|2026-11-04",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -539,8 +526,8 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MRSO|Day|2026-11-03|2026-11-05",
    "code": "MRSO",
    "course": "PWM-Security: Manpower Planning (Monitor and Review Security Operations)(MRSO)",
@@ -552,8 +539,8 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-11-03|2026-11-06",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -565,8 +552,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-11-04|2026-11-06",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -578,8 +565,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PPPS|Day|2026-11-04|2026-11-05",
    "code": "PPPS",
    "course": "Executive Protection (Provide People Protection Services)(PPPS)",
@@ -588,11 +575,11 @@
    "start": "2026-11-04",
    "end": "2026-11-05",
    "remarks": "Express",
-   "places": 16
+   "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PSDLF|Day|2026-11-05|2026-11-07",
    "code": "PSDLF",
    "course": "PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)(PSDLF)",
@@ -604,8 +591,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-11-05|2026-11-06",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -617,8 +604,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-11-05|2026-11-07",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -627,11 +614,11 @@
    "start": "2026-11-05",
    "end": "2026-11-07",
    "remarks": "-",
-   "places": 17
+   "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-05|2026-11-06",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -643,8 +630,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-06|2026-11-07",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -656,8 +643,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PMRDCCC|Day|2026-11-06|2026-11-07",
    "code": "PMRDCCC",
    "course": "PWM-Security: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)(PMRDCCC)",
@@ -669,8 +656,8 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-11-10|2026-11-12",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -682,8 +669,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-11-10|2026-11-12",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -695,8 +682,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-10|2026-11-12",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -708,8 +695,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-11-10|2026-11-13",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -721,8 +708,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Day|2026-11-10|2026-11-13",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -734,8 +721,8 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-11-11|2026-11-13",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -747,8 +734,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "ISP|Day|2026-11-12|2026-11-14",
    "code": "ISP",
    "course": "PWM-Security: Capability Development (Induct Security Personnel)(ISP)",
@@ -757,11 +744,11 @@
    "start": "2026-11-12",
    "end": "2026-11-14",
    "remarks": "-",
-   "places": 17
+   "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-11-12|2026-11-14",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -773,8 +760,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-12|2026-11-13",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -786,8 +773,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "QAPP|Day|2026-11-12|2026-11-12",
    "code": "QAPP",
    "course": "Quality Assurance and Professional Practice for Adult Educators",
@@ -799,8 +786,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-11-12|2026-11-14",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -809,11 +796,11 @@
    "start": "2026-11-12",
    "end": "2026-11-14",
    "remarks": "-",
-   "places": 18
+   "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-13|2026-11-15",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -825,8 +812,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "SUP|Day|2026-11-13|2026-11-15",
    "code": "SUP",
    "course": "PWM-Security: Guard and Patrol (Supervise Security Officers)(SUP)",
@@ -838,8 +825,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-14|2026-11-15",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -851,8 +838,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSSV|Day|2026-11-14|2026-11-15",
    "code": "CSSSV",
    "course": "Security Screening Management (Conduct Security Screening and Search of Vehicles)(CSSSV)",
@@ -864,8 +851,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "QAPP|Evening|2026-11-16|2026-11-17",
    "code": "QAPP",
    "course": "Quality Assurance and Professional Practice for Adult Educators",
@@ -877,8 +864,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-16|2026-11-17",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -890,8 +877,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PMRDCCC|Day|2026-11-16|2026-11-17",
    "code": "PMRDCCC",
    "course": "PWM-Security: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)(PMRDCCC)",
@@ -903,8 +890,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-11-16|2026-11-18",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -916,8 +903,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-16|2026-11-17",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -929,8 +916,8 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Day|2026-11-16|2026-11-18",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -939,11 +926,11 @@
    "start": "2026-11-16",
    "end": "2026-11-18",
    "remarks": "Express",
-   "places": 18
+   "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Evening|2026-11-17|2026-11-21",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -955,8 +942,8 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-11-17|2026-11-19",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -968,8 +955,8 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-17|2026-11-19",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -981,8 +968,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Evening|2026-11-17|2026-11-21",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -994,8 +981,8 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-11-18|2026-11-20",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -1007,8 +994,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "COBD|Day|2026-11-18|2026-11-19",
    "code": "COBD",
    "course": "PWM-Security: Manpower Planning (Conduct Operation Briefing and Debriefing)(COBD)",
@@ -1017,11 +1004,11 @@
    "start": "2026-11-18",
    "end": "2026-11-19",
    "remarks": "-",
-   "places": 14
+   "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-11-19|2026-11-21",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -1033,8 +1020,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "AASR|Day|2026-11-19|2026-11-21",
    "code": "AASR",
    "course": "PWM-Security: Security Risk Analysis (Assess and Address Security Risks)(AASR)",
@@ -1046,8 +1033,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-11-19|2026-11-21",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -1059,8 +1046,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-20|2026-11-22",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -1072,8 +1059,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-20|2026-11-21",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -1085,8 +1072,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "IIMP|Day|2026-11-20|2026-11-20",
    "code": "IIMP",
    "course": "Implement Incident Management Process (IIMP)",
@@ -1098,8 +1085,8 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PPPS|Day|2026-11-21|2026-11-22",
    "code": "PPPS",
    "course": "Executive Protection (Provide People Protection Services)(PPPS)",
@@ -1111,8 +1098,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-11-21|2026-11-22",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -1124,8 +1111,8 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-23|2026-11-25",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -1137,8 +1124,8 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Evening|2026-11-23|2026-11-28",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -1150,8 +1137,8 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-11-23|2026-11-24",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -1163,8 +1150,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Day|2026-11-23|2026-11-26",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -1176,8 +1163,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PI|Day|2026-11-23|2026-11-27",
    "code": "PI",
    "course": "Information Collection (Perform Investigation Activities in Compliance with Legal Requirements)(PI)",
@@ -1189,8 +1176,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CCTC|Day|2026-11-23|2026-11-25",
    "code": "CCTC",
    "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
@@ -1202,8 +1189,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "ISP|Day|2026-11-23|2026-11-25",
    "code": "ISP",
    "course": "PWM-Security: Capability Development (Induct Security Personnel)(ISP)",
@@ -1212,11 +1199,11 @@
    "start": "2026-11-23",
    "end": "2026-11-25",
    "remarks": "-",
-   "places": 15
+   "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "DSE|Day|2026-11-24|2026-11-26",
    "code": "DSE",
    "course": "PWM-Security: Access Control Management (Deploy Security Equipment)(DSE)",
@@ -1228,8 +1215,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Evening|2026-11-24|2026-11-28",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -1241,8 +1228,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-11-24|2026-11-26",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -1254,8 +1241,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PHVSS|Day|2026-11-25|2026-11-28",
    "code": "PHVSS",
    "course": "Provide Hospitality and Venues Safety and Security (PHVSS)",
@@ -1267,8 +1254,8 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PAPP|Day|2026-11-25|2026-11-27",
    "code": "PAPP",
    "course": "Deterrence (Perform Security Duties at Protected Areas and Protected Places)(PAPP)",
@@ -1280,8 +1267,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-11-26|2026-11-28",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -1293,8 +1280,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-26|2026-11-27",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -1306,8 +1293,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "SUP|Day|2026-11-26|2026-11-28",
    "code": "SUP",
    "course": "PWM-Security: Guard and Patrol (Supervise Security Officers)(SUP)",
@@ -1319,8 +1306,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-26|2026-11-28",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -1329,11 +1316,11 @@
    "start": "2026-11-26",
    "end": "2026-11-28",
    "remarks": "-",
-   "places": 19
+   "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "OBSE|Day|2026-11-27|2026-11-29",
    "code": "OBSE",
    "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
@@ -1342,11 +1329,11 @@
    "start": "2026-11-27",
    "end": "2026-11-29",
    "remarks": "-",
-   "places": 16
+   "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "RTT|Day|2026-11-27|2026-11-29",
    "code": "RTT",
    "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
@@ -1358,8 +1345,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "MDCTB|Day|2026-11-28|2026-11-29",
    "code": "MDCTB",
    "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
@@ -1371,8 +1358,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-28|2026-11-29",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -1381,11 +1368,11 @@
    "start": "2026-11-28",
    "end": "2026-11-29",
    "remarks": "Weekend Express",
-   "places": 14
+   "places": 13
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PRSF|Day|2026-11-30|2026-12-02",
    "code": "PRSF",
    "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
@@ -1394,11 +1381,11 @@
    "start": "2026-11-30",
    "end": "2026-12-02",
    "remarks": "-",
-   "places": 16
+   "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "HSIS|Day|2026-11-30|2026-12-03",
    "code": "HSIS",
    "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
@@ -1410,8 +1397,8 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PGPS,OBSE|Evening|2026-11-30|2026-12-05",
    "code": "PGPS,OBSE",
    "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
@@ -1423,8 +1410,8 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "CSSPB|Day|2026-11-30|2026-12-01",
    "code": "CSSPB",
    "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
@@ -1436,8 +1423,8 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-11-30|2026-12-02",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
@@ -1449,8 +1436,8 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "PSDLF|Day|2026-11-30|2026-12-02",
    "code": "PSDLF",
    "course": "PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)(PSDLF)",
@@ -1462,8 +1449,8 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "COBD|Day|2026-11-30|2026-12-01",
    "code": "COBD",
    "course": "PWM-Security: Manpower Planning (Conduct Operation Briefing and Debriefing)(COBD)",
@@ -1475,8 +1462,8 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-10-19T09:30:00+08:00",
-   "snapshot_date": "2026-10-19",
+   "snapshot_at": "2026-10-20T08:23:00+08:00",
+   "snapshot_date": "2026-10-20",
    "session": "XRAY|Day|2026-12-16|2026-12-18",
    "code": "XRAY",
    "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
