@@ -1,12 +1,12 @@
 {
- "snapshot_at": "2026-11-20T09:42:00+08:00",
+ "snapshot_at": "2026-11-20T12:09:00+08:00",
  "source": "https://tms.ktree.com.sg/CourseSchedule/Index",
  "count": 106,
- "places_total": 1234,
+ "places_total": 1219,
  "fully_booked": 8,
  "rows": [
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-11-19|2026-11-21",
    "code": "HSIS",
@@ -19,7 +19,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "AASR|Day|2026-11-19|2026-11-21",
    "code": "AASR",
@@ -32,7 +32,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CCTC|Day|2026-11-19|2026-11-21",
    "code": "CCTC",
@@ -45,7 +45,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-11-20|2026-11-21",
    "code": "CSSPB",
@@ -55,10 +55,10 @@
    "start": "2026-11-20",
    "end": "2026-11-21",
    "remarks": "-",
-   "places": 2
+   "places": 3
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-11-20|2026-11-22",
    "code": "PRSF",
@@ -68,10 +68,10 @@
    "start": "2026-11-20",
    "end": "2026-11-22",
    "remarks": "-",
-   "places": 0
+   "places": 1
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-11-20|2026-11-22",
    "code": "OBSE",
@@ -84,7 +84,7 @@
    "places": 2
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-11-21|2026-11-22",
    "code": "RTT",
@@ -97,7 +97,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PPPS|Day|2026-11-21|2026-11-22",
    "code": "PPPS",
@@ -110,7 +110,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CCTC|Day|2026-11-23|2026-11-25",
    "code": "CCTC",
@@ -120,10 +120,10 @@
    "start": "2026-11-23",
    "end": "2026-11-25",
    "remarks": "-",
-   "places": 12
+   "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PI|Day|2026-11-23|2026-11-27",
    "code": "PI",
@@ -133,10 +133,10 @@
    "start": "2026-11-23",
    "end": "2026-11-27",
    "remarks": "-",
-   "places": 11
+   "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-11-23|2026-11-25",
    "code": "OBSE",
@@ -149,7 +149,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Evening|2026-11-23|2026-11-28",
    "code": "HSIS",
@@ -162,7 +162,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-11-23|2026-11-26",
    "code": "PGPS,OBSE",
@@ -175,7 +175,7 @@
    "places": 2
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-11-23|2026-11-24",
    "code": "MDCTB",
@@ -188,7 +188,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "ISP|Day|2026-11-23|2026-11-25",
    "code": "ISP",
@@ -201,7 +201,7 @@
    "places": 5
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-11-23|2026-11-25",
    "code": "PRSF",
@@ -214,7 +214,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-11-24|2026-11-26",
    "code": "HSIS",
@@ -224,10 +224,10 @@
    "start": "2026-11-24",
    "end": "2026-11-26",
    "remarks": "Express",
-   "places": 15
+   "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Evening|2026-11-24|2026-11-28",
    "code": "OBSE",
@@ -240,7 +240,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "DSE|Day|2026-11-24|2026-11-26",
    "code": "DSE",
@@ -253,7 +253,7 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PAPP|Day|2026-11-25|2026-11-27",
    "code": "PAPP",
@@ -263,10 +263,10 @@
    "start": "2026-11-25",
    "end": "2026-11-27",
    "remarks": "-",
-   "places": 6
+   "places": 1
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PHVSS|Day|2026-11-25|2026-11-28",
    "code": "PHVSS",
@@ -279,7 +279,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-11-25|2026-11-27",
    "code": "OBSE",
@@ -289,10 +289,10 @@
    "start": "2026-11-25",
    "end": "2026-11-27",
    "remarks": "-",
-   "places": 7
+   "places": 4
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-11-26|2026-11-27",
    "code": "CSSPB",
@@ -305,7 +305,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "SUP|Day|2026-11-26|2026-11-28",
    "code": "SUP",
@@ -318,7 +318,7 @@
    "places": 5
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-11-26|2026-11-28",
    "code": "PRSF",
@@ -331,7 +331,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-11-26|2026-11-28",
    "code": "XRAY",
@@ -344,7 +344,7 @@
    "places": 2
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-11-27|2026-11-29",
    "code": "RTT",
@@ -357,7 +357,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-11-27|2026-11-29",
    "code": "OBSE",
@@ -370,7 +370,7 @@
    "places": 5
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-11-28|2026-11-29",
    "code": "MDCTB",
@@ -383,7 +383,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-11-28|2026-11-29",
    "code": "PRSF",
@@ -396,7 +396,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-11-30|2026-12-01",
    "code": "CSSPB",
@@ -406,10 +406,10 @@
    "start": "2026-11-30",
    "end": "2026-12-01",
    "remarks": "-",
-   "places": 13
+   "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-11-30|2026-12-02",
    "code": "PRSF",
@@ -422,7 +422,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PSDLF|Day|2026-11-30|2026-12-02",
    "code": "PSDLF",
@@ -435,7 +435,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "COBD|Day|2026-11-30|2026-12-01",
    "code": "COBD",
@@ -448,7 +448,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Evening|2026-11-30|2026-12-05",
    "code": "PGPS,OBSE",
@@ -461,7 +461,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-11-30|2026-12-03",
    "code": "HSIS",
@@ -474,7 +474,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-11-30|2026-12-02",
    "code": "XRAY",
@@ -487,7 +487,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Evening|2026-12-01|2026-12-05",
    "code": "OBSE",
@@ -500,7 +500,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-01|2026-12-03",
    "code": "OBSE",
@@ -513,7 +513,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-12-01|2026-12-04",
    "code": "PGPS,OBSE",
@@ -526,7 +526,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-01|2026-12-03",
    "code": "PRSF",
@@ -539,7 +539,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MRSO|Day|2026-12-02|2026-12-04",
    "code": "MRSO",
@@ -552,7 +552,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-12-03|2026-12-05",
    "code": "MDCTB",
@@ -565,7 +565,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-03|2026-12-05",
    "code": "PRSF",
@@ -575,10 +575,10 @@
    "start": "2026-12-03",
    "end": "2026-12-05",
    "remarks": "-",
-   "places": 2
+   "places": 0
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "SUP|Day|2026-12-03|2026-12-05",
    "code": "SUP",
@@ -591,7 +591,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-12-04|2026-12-05",
    "code": "RTT",
@@ -604,7 +604,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-04|2026-12-06",
    "code": "OBSE",
@@ -617,7 +617,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CCTC|Day|2026-12-04|2026-12-06",
    "code": "CCTC",
@@ -630,7 +630,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PMRDCCC|Day|2026-12-05|2026-12-06",
    "code": "PMRDCCC",
@@ -643,7 +643,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PPPS|Day|2026-12-05|2026-12-06",
    "code": "PPPS",
@@ -656,7 +656,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CCTC|Day|2026-12-07|2026-12-09",
    "code": "CCTC",
@@ -669,7 +669,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "ISP|Day|2026-12-07|2026-12-09",
    "code": "ISP",
@@ -682,7 +682,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PI|Day|2026-12-07|2026-12-11",
    "code": "PI",
@@ -695,7 +695,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-07|2026-12-09",
    "code": "OBSE",
@@ -705,10 +705,10 @@
    "start": "2026-12-07",
    "end": "2026-12-09",
    "remarks": "-",
-   "places": 11
+   "places": 10
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Evening|2026-12-07|2026-12-12",
    "code": "HSIS",
@@ -721,7 +721,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-12-07|2026-12-10",
    "code": "PGPS,OBSE",
@@ -734,7 +734,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-12-08|2026-12-11",
    "code": "HSIS",
@@ -747,7 +747,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-08|2026-12-10",
    "code": "PRSF",
@@ -760,7 +760,7 @@
    "places": 1
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PAPP|Day|2026-12-09|2026-12-11",
    "code": "PAPP",
@@ -773,7 +773,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-12-10|2026-12-12",
    "code": "XRAY",
@@ -786,7 +786,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-12-10|2026-12-12",
    "code": "RTT",
@@ -799,7 +799,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-10|2026-12-12",
    "code": "OBSE",
@@ -809,10 +809,10 @@
    "start": "2026-12-10",
    "end": "2026-12-12",
    "remarks": "-",
-   "places": 15
+   "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-11|2026-12-13",
    "code": "PRSF",
@@ -825,7 +825,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-12-12|2026-12-13",
    "code": "MDCTB",
@@ -838,7 +838,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSSV|Day|2026-12-12|2026-12-13",
    "code": "CSSSV",
@@ -851,7 +851,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-12-12|2026-12-13",
    "code": "CSSPB",
@@ -864,7 +864,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PAPP|Day|2026-12-14|2026-12-16",
    "code": "PAPP",
@@ -877,7 +877,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PMRDCCC|Day|2026-12-14|2026-12-15",
    "code": "PMRDCCC",
@@ -890,7 +890,7 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-12-14|2026-12-16",
    "code": "XRAY",
@@ -903,7 +903,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-14|2026-12-16",
    "code": "OBSE",
@@ -916,7 +916,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-12-14|2026-12-16",
    "code": "PGPS,OBSE",
@@ -929,7 +929,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-12-15|2026-12-17",
    "code": "RTT",
@@ -942,7 +942,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Evening|2026-12-15|2026-12-19",
    "code": "RTT",
@@ -955,7 +955,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-15|2026-12-17",
    "code": "PRSF",
@@ -968,7 +968,7 @@
    "places": 6
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-12-16|2026-12-18",
    "code": "MDCTB",
@@ -981,7 +981,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-12-16|2026-12-18",
    "code": "XRAY",
@@ -994,7 +994,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-12-17|2026-12-19",
    "code": "HSIS",
@@ -1007,7 +1007,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "AASR|Day|2026-12-17|2026-12-19",
    "code": "AASR",
@@ -1020,7 +1020,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-17|2026-12-19",
    "code": "OBSE",
@@ -1033,7 +1033,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "DSE|Day|2026-12-17|2026-12-19",
    "code": "DSE",
@@ -1046,7 +1046,7 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CCTC|Day|2026-12-17|2026-12-19",
    "code": "CCTC",
@@ -1059,7 +1059,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-12-18|2026-12-19",
    "code": "CSSPB",
@@ -1072,7 +1072,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "IIMP|Day|2026-12-18|2026-12-18",
    "code": "IIMP",
@@ -1085,7 +1085,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "COBD|Day|2026-12-19|2026-12-20",
    "code": "COBD",
@@ -1098,7 +1098,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-19|2026-12-20",
    "code": "PRSF",
@@ -1111,7 +1111,7 @@
    "places": 4
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-12-21|2026-12-23",
    "code": "MDCTB",
@@ -1124,7 +1124,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-21|2026-12-23",
    "code": "OBSE",
@@ -1137,7 +1137,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-12-21|2026-12-24",
    "code": "PGPS,OBSE",
@@ -1150,7 +1150,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "ISP|Day|2026-12-21|2026-12-23",
    "code": "ISP",
@@ -1163,7 +1163,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-12-21|2026-12-22",
    "code": "CSSPB",
@@ -1176,7 +1176,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-12-21|2026-12-23",
    "code": "XRAY",
@@ -1189,7 +1189,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-12-22|2026-12-24",
    "code": "HSIS",
@@ -1202,7 +1202,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-22|2026-12-24",
    "code": "PRSF",
@@ -1215,7 +1215,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PAPP|Day|2026-12-23|2026-12-26",
    "code": "PAPP",
@@ -1228,7 +1228,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "SUP|Day|2026-12-24|2026-12-27",
    "code": "SUP",
@@ -1241,7 +1241,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "RTT|Day|2026-12-26|2026-12-27",
    "code": "RTT",
@@ -1254,7 +1254,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "MDCTB|Day|2026-12-26|2026-12-27",
    "code": "MDCTB",
@@ -1267,7 +1267,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PRSF|Day|2026-12-28|2026-12-30",
    "code": "PRSF",
@@ -1280,7 +1280,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "HSIS|Day|2026-12-28|2026-12-31",
    "code": "HSIS",
@@ -1293,7 +1293,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PSDLF|Day|2026-12-28|2026-12-30",
    "code": "PSDLF",
@@ -1306,7 +1306,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "XRAY|Day|2026-12-28|2026-12-30",
    "code": "XRAY",
@@ -1319,7 +1319,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PHVSS|Day|2026-12-28|2026-12-31",
    "code": "PHVSS",
@@ -1332,7 +1332,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PGPS,OBSE|Day|2026-12-29|2026-12-31",
    "code": "PGPS,OBSE",
@@ -1345,7 +1345,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "OBSE|Day|2026-12-29|2026-12-31",
    "code": "OBSE",
@@ -1358,7 +1358,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "PPPS|Day|2026-12-30|2026-12-31",
    "code": "PPPS",
@@ -1371,7 +1371,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-20T09:42:00+08:00",
+   "snapshot_at": "2026-11-20T12:09:00+08:00",
    "snapshot_date": "2026-11-20",
    "session": "CSSPB|Day|2026-12-30|2026-12-31",
    "code": "CSSPB",
