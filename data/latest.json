@@ -1,12 +1,12 @@
 {
- "snapshot_at": "2026-11-25T08:24:00+08:00",
+ "snapshot_at": "2026-11-25T13:35:00+08:00",
  "source": "https://tms.ktree.com.sg/CourseSchedule/Index",
- "count": 95,
- "places_total": 1086,
- "fully_booked": 11,
+ "count": 131,
+ "places_total": 1738,
+ "fully_booked": 10,
  "rows": [
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-11-23|2026-11-26",
    "code": "PGPS,OBSE",
@@ -19,7 +19,7 @@
    "places": 5
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "HSIS|Evening|2026-11-23|2026-11-28",
    "code": "HSIS",
@@ -32,7 +32,7 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PI|Day|2026-11-23|2026-11-27",
    "code": "PI",
@@ -45,7 +45,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Evening|2026-11-24|2026-11-28",
    "code": "OBSE",
@@ -58,7 +58,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "HSIS|Day|2026-11-24|2026-11-26",
    "code": "HSIS",
@@ -71,7 +71,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "DSE|Day|2026-11-24|2026-11-26",
    "code": "DSE",
@@ -84,7 +84,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PAPP|Day|2026-11-25|2026-11-27",
    "code": "PAPP",
@@ -97,7 +97,7 @@
    "places": 3
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PHVSS|Day|2026-11-25|2026-11-28",
    "code": "PHVSS",
@@ -110,7 +110,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Day|2026-11-25|2026-11-27",
    "code": "OBSE",
@@ -123,20 +123,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "XRAY|Day|2026-11-26|2026-11-28",
-   "code": "XRAY",
-   "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
-   "level": "Events Security Courses",
-   "timing": "Day",
-   "start": "2026-11-26",
-   "end": "2026-11-28",
-   "remarks": "Express",
-   "places": 0
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSPB|Day|2026-11-26|2026-11-27",
    "code": "CSSPB",
@@ -149,7 +136,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "SUP|Day|2026-11-26|2026-11-28",
    "code": "SUP",
@@ -162,7 +149,7 @@
    "places": 6
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-11-26|2026-11-28",
    "code": "PRSF",
@@ -175,7 +162,20 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "XRAY|Day|2026-11-26|2026-11-28",
+   "code": "XRAY",
+   "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
+   "level": "Events Security Courses",
+   "timing": "Day",
+   "start": "2026-11-26",
+   "end": "2026-11-28",
+   "remarks": "Express",
+   "places": 0
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "RTT|Day|2026-11-27|2026-11-29",
    "code": "RTT",
@@ -188,7 +188,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Day|2026-11-27|2026-11-29",
    "code": "OBSE",
@@ -201,7 +201,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-11-28|2026-11-29",
    "code": "MDCTB",
@@ -214,7 +214,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-11-28|2026-11-29",
    "code": "PRSF",
@@ -227,7 +227,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PSDLF|Day|2026-11-30|2026-12-02",
    "code": "PSDLF",
@@ -240,7 +240,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "COBD|Day|2026-11-30|2026-12-01",
    "code": "COBD",
@@ -250,10 +250,10 @@
    "start": "2026-11-30",
    "end": "2026-12-01",
    "remarks": "-",
-   "places": 10
+   "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSPB|Day|2026-11-30|2026-12-01",
    "code": "CSSPB",
@@ -263,10 +263,10 @@
    "start": "2026-11-30",
    "end": "2026-12-01",
    "remarks": "-",
-   "places": 10
+   "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-11-30|2026-12-02",
    "code": "PRSF",
@@ -279,7 +279,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Evening|2026-11-30|2026-12-05",
    "code": "PGPS,OBSE",
@@ -289,10 +289,10 @@
    "start": "2026-11-30",
    "end": "2026-12-05",
    "remarks": "Evening Class",
-   "places": 10
+   "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "HSIS|Day|2026-11-30|2026-12-03",
    "code": "HSIS",
@@ -305,20 +305,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "XRAY|Day|2026-11-30|2026-12-02",
-   "code": "XRAY",
-   "course": "Security Screening Management (Conduct Security Screening Using X-Ray Machine)(XRAY)",
-   "level": "Events Security Courses",
-   "timing": "Day",
-   "start": "2026-11-30",
-   "end": "2026-12-02",
-   "remarks": "Express",
-   "places": 12
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-12-01|2026-12-04",
    "code": "PGPS,OBSE",
@@ -331,7 +318,7 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Evening|2026-12-01|2026-12-05",
    "code": "OBSE",
@@ -344,7 +331,7 @@
    "places": 13
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Day|2026-12-01|2026-12-03",
    "code": "OBSE",
@@ -357,7 +344,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-01|2026-12-03",
    "code": "PRSF",
@@ -370,7 +357,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MRSO|Day|2026-12-02|2026-12-04",
    "code": "MRSO",
@@ -380,10 +367,10 @@
    "start": "2026-12-02",
    "end": "2026-12-04",
    "remarks": "-",
-   "places": 10
+   "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "SUP|Day|2026-12-03|2026-12-05",
    "code": "SUP",
@@ -396,7 +383,7 @@
    "places": 8
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-12-03|2026-12-05",
    "code": "MDCTB",
@@ -409,7 +396,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-03|2026-12-05",
    "code": "PRSF",
@@ -419,36 +406,10 @@
    "start": "2026-12-03",
    "end": "2026-12-05",
    "remarks": "-",
-   "places": 0
+   "places": 1
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-04|2026-12-06",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "remarks": "-",
-   "places": 11
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "CCTC|Day|2026-12-04|2026-12-06",
-   "code": "CCTC",
-   "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
-   "level": "Events Security Courses",
-   "timing": "Day",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "remarks": "-",
-   "places": 17
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "RTT|Day|2026-12-04|2026-12-05",
    "code": "RTT",
@@ -461,7 +422,33 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "CCTC|Day|2026-12-04|2026-12-06",
+   "code": "CCTC",
+   "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
+   "level": "Events Security Courses",
+   "timing": "Day",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "remarks": "-",
+   "places": 16
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-04|2026-12-06",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "remarks": "-",
+   "places": 10
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PPPS|Day|2026-12-05|2026-12-06",
    "code": "PPPS",
@@ -474,7 +461,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PMRDCCC|Day|2026-12-05|2026-12-06",
    "code": "PMRDCCC",
@@ -487,20 +474,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "CCTC|Day|2026-12-07|2026-12-09",
-   "code": "CCTC",
-   "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
-   "level": "Events Security Courses",
-   "timing": "Day",
-   "start": "2026-12-07",
-   "end": "2026-12-09",
-   "remarks": "-",
-   "places": 18
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "ISP|Day|2026-12-07|2026-12-09",
    "code": "ISP",
@@ -513,20 +487,20 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-07|2026-12-09",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
+   "session": "CCTC|Day|2026-12-07|2026-12-09",
+   "code": "CCTC",
+   "course": "Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)(CCTC)",
+   "level": "Events Security Courses",
    "timing": "Day",
    "start": "2026-12-07",
    "end": "2026-12-09",
    "remarks": "-",
-   "places": 4
+   "places": 18
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "HSIS|Evening|2026-12-07|2026-12-12",
    "code": "HSIS",
@@ -539,7 +513,20 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-07|2026-12-09",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "remarks": "-",
+   "places": 3
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-12-07|2026-12-10",
    "code": "PGPS,OBSE",
@@ -549,10 +536,10 @@
    "start": "2026-12-07",
    "end": "2026-12-10",
    "remarks": "-",
-   "places": 14
+   "places": 12
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PI|Day|2026-12-07|2026-12-11",
    "code": "PI",
@@ -565,7 +552,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "HSIS|Day|2026-12-08|2026-12-11",
    "code": "HSIS",
@@ -578,7 +565,7 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-08|2026-12-10",
    "code": "PRSF",
@@ -591,7 +578,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PAPP|Day|2026-12-09|2026-12-11",
    "code": "PAPP",
@@ -604,7 +591,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-09|2026-12-11",
    "code": "PRSF",
@@ -614,10 +601,10 @@
    "start": "2026-12-09",
    "end": "2026-12-11",
    "remarks": "-",
-   "places": 14
+   "places": 6
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "XRAY|Day|2026-12-10|2026-12-12",
    "code": "XRAY",
@@ -630,20 +617,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-10|2026-12-12",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-10",
-   "end": "2026-12-12",
-   "remarks": "-",
-   "places": 11
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "RTT|Day|2026-12-10|2026-12-12",
    "code": "RTT",
@@ -656,7 +630,20 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-10|2026-12-12",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-10",
+   "end": "2026-12-12",
+   "remarks": "-",
+   "places": 11
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-11|2026-12-13",
    "code": "PRSF",
@@ -669,7 +656,7 @@
    "places": 10
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-12-12|2026-12-13",
    "code": "MDCTB",
@@ -682,7 +669,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSPB|Day|2026-12-12|2026-12-13",
    "code": "CSSPB",
@@ -695,7 +682,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSSV|Day|2026-12-12|2026-12-13",
    "code": "CSSSV",
@@ -708,7 +695,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "XRAY|Day|2026-12-14|2026-12-16",
    "code": "XRAY",
@@ -721,20 +708,7 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-14|2026-12-16",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-14",
-   "end": "2026-12-16",
-   "remarks": "-",
-   "places": 16
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PAPP|Day|2026-12-14|2026-12-16",
    "code": "PAPP",
@@ -747,7 +721,7 @@
    "places": 19
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PMRDCCC|Day|2026-12-14|2026-12-15",
    "code": "PMRDCCC",
@@ -760,7 +734,20 @@
    "places": 7
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-14|2026-12-16",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-14",
+   "end": "2026-12-16",
+   "remarks": "-",
+   "places": 16
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-12-14|2026-12-16",
    "code": "PGPS,OBSE",
@@ -773,20 +760,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "RTT|Day|2026-12-15|2026-12-17",
-   "code": "RTT",
-   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-15",
-   "end": "2026-12-17",
-   "remarks": "-",
-   "places": 15
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "RTT|Evening|2026-12-15|2026-12-19",
    "code": "RTT",
@@ -799,7 +773,20 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2026-12-15|2026-12-17",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-15",
+   "end": "2026-12-17",
+   "remarks": "-",
+   "places": 14
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-15|2026-12-17",
    "code": "PRSF",
@@ -809,10 +796,10 @@
    "start": "2026-12-15",
    "end": "2026-12-17",
    "remarks": "-",
-   "places": 3
+   "places": 2
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-12-16|2026-12-18",
    "code": "MDCTB",
@@ -825,7 +812,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "XRAY|Day|2026-12-16|2026-12-18",
    "code": "XRAY",
@@ -838,7 +825,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-16|2026-12-18",
    "code": "PRSF",
@@ -848,36 +835,10 @@
    "start": "2026-12-16",
    "end": "2026-12-18",
    "remarks": "-",
-   "places": 20
+   "places": 18
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "DSE|Day|2026-12-17|2026-12-19",
-   "code": "DSE",
-   "course": "PWM-Security: Access Control Management (Deploy Security Equipment)(DSE)",
-   "level": "Senior Security Supervisor Courses (SSS)",
-   "timing": "Day",
-   "start": "2026-12-17",
-   "end": "2026-12-19",
-   "remarks": "-",
-   "places": 7
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "HSIS|Day|2026-12-17|2026-12-19",
-   "code": "HSIS",
-   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-17",
-   "end": "2026-12-19",
-   "remarks": "Express",
-   "places": 16
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "OBSE|Day|2026-12-17|2026-12-19",
    "code": "OBSE",
@@ -890,20 +851,20 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
-   "session": "AASR|Day|2026-12-17|2026-12-19",
-   "code": "AASR",
-   "course": "PWM-Security: Security Risk Analysis (Assess and Address Security Risks)(AASR)",
-   "level": "Security Supervisor Courses (SS)",
+   "session": "HSIS|Day|2026-12-17|2026-12-19",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
    "timing": "Day",
    "start": "2026-12-17",
    "end": "2026-12-19",
    "remarks": "Express",
-   "places": 7
+   "places": 16
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CCTC|Day|2026-12-17|2026-12-19",
    "code": "CCTC",
@@ -916,20 +877,33 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
-   "session": "CSSPB|Day|2026-12-18|2026-12-19",
-   "code": "CSSPB",
-   "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
-   "level": "Events Security Courses",
+   "session": "AASR|Day|2026-12-17|2026-12-19",
+   "code": "AASR",
+   "course": "PWM-Security: Security Risk Analysis (Assess and Address Security Risks)(AASR)",
+   "level": "Security Supervisor Courses (SS)",
    "timing": "Day",
-   "start": "2026-12-18",
+   "start": "2026-12-17",
    "end": "2026-12-19",
-   "remarks": "-",
-   "places": 19
+   "remarks": "Express",
+   "places": 7
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "DSE|Day|2026-12-17|2026-12-19",
+   "code": "DSE",
+   "course": "PWM-Security: Access Control Management (Deploy Security Equipment)(DSE)",
+   "level": "Senior Security Supervisor Courses (SSS)",
+   "timing": "Day",
+   "start": "2026-12-17",
+   "end": "2026-12-19",
+   "remarks": "-",
+   "places": 7
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "IIMP|Day|2026-12-18|2026-12-18",
    "code": "IIMP",
@@ -942,7 +916,33 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "CSSPB|Day|2026-12-18|2026-12-19",
+   "code": "CSSPB",
+   "course": "Security Screening Management (Conduct Security Screening of Person and Bag)(CSSPB)",
+   "level": "Events Security Courses",
+   "timing": "Day",
+   "start": "2026-12-18",
+   "end": "2026-12-19",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "COBD|Day|2026-12-19|2026-12-20",
+   "code": "COBD",
+   "course": "PWM-Security: Manpower Planning (Conduct Operation Briefing and Debriefing)(COBD)",
+   "level": "Senior Security Supervisor Courses (SSS)",
+   "timing": "Day",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "remarks": "Weekend",
+   "places": 12
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-19|2026-12-20",
    "code": "PRSF",
@@ -955,46 +955,7 @@
    "places": 0
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "COBD|Day|2026-12-19|2026-12-20",
-   "code": "COBD",
-   "course": "PWM-Security: Manpower Planning (Conduct Operation Briefing and Debriefing)(COBD)",
-   "level": "Senior Security Supervisor Courses (SSS)",
-   "timing": "Day",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "remarks": "Weekend",
-   "places": 13
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "ISP|Day|2026-12-21|2026-12-23",
-   "code": "ISP",
-   "course": "PWM-Security: Capability Development (Induct Security Personnel)(ISP)",
-   "level": "Security Supervisor Courses (SS)",
-   "timing": "Day",
-   "start": "2026-12-21",
-   "end": "2026-12-23",
-   "remarks": "-",
-   "places": 19
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-21|2026-12-23",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-21",
-   "end": "2026-12-23",
-   "remarks": "-",
-   "places": 13
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-12-21|2026-12-23",
    "code": "MDCTB",
@@ -1007,7 +968,33 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "ISP|Day|2026-12-21|2026-12-23",
+   "code": "ISP",
+   "course": "PWM-Security: Capability Development (Induct Security Personnel)(ISP)",
+   "level": "Security Supervisor Courses (SS)",
+   "timing": "Day",
+   "start": "2026-12-21",
+   "end": "2026-12-23",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-21|2026-12-23",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-21",
+   "end": "2026-12-23",
+   "remarks": "-",
+   "places": 13
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-12-21|2026-12-24",
    "code": "PGPS,OBSE",
@@ -1020,7 +1007,7 @@
    "places": 12
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSPB|Day|2026-12-21|2026-12-22",
    "code": "CSSPB",
@@ -1033,7 +1020,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "XRAY|Day|2026-12-21|2026-12-23",
    "code": "XRAY",
@@ -1046,20 +1033,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "HSIS|Day|2026-12-22|2026-12-24",
-   "code": "HSIS",
-   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-22",
-   "end": "2026-12-24",
-   "remarks": "Express",
-   "places": 18
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-22|2026-12-24",
    "code": "PRSF",
@@ -1072,7 +1046,20 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2026-12-22|2026-12-24",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-22",
+   "end": "2026-12-24",
+   "remarks": "Express",
+   "places": 18
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PAPP|Day|2026-12-23|2026-12-26",
    "code": "PAPP",
@@ -1085,7 +1072,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "SUP|Day|2026-12-24|2026-12-27",
    "code": "SUP",
@@ -1098,7 +1085,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "MDCTB|Day|2026-12-26|2026-12-27",
    "code": "MDCTB",
@@ -1111,7 +1098,7 @@
    "places": 16
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "RTT|Day|2026-12-26|2026-12-27",
    "code": "RTT",
@@ -1124,20 +1111,7 @@
    "places": 14
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "HSIS|Day|2026-12-28|2026-12-31",
-   "code": "HSIS",
-   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-28",
-   "end": "2026-12-31",
-   "remarks": "-",
-   "places": 17
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PRSF|Day|2026-12-28|2026-12-30",
    "code": "PRSF",
@@ -1150,7 +1124,7 @@
    "places": 17
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PSDLF|Day|2026-12-28|2026-12-30",
    "code": "PSDLF",
@@ -1163,7 +1137,20 @@
    "places": 15
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2026-12-28|2026-12-31",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-28",
+   "end": "2026-12-31",
+   "remarks": "-",
+   "places": 17
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "XRAY|Day|2026-12-28|2026-12-30",
    "code": "XRAY",
@@ -1176,7 +1163,7 @@
    "places": 11
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PHVSS|Day|2026-12-28|2026-12-31",
    "code": "PHVSS",
@@ -1189,20 +1176,7 @@
    "places": 9
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
-   "snapshot_date": "2026-11-25",
-   "session": "OBSE|Day|2026-12-29|2026-12-31",
-   "code": "OBSE",
-   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
-   "level": "Basic Security Officer Courses (SO)",
-   "timing": "Day",
-   "start": "2026-12-29",
-   "end": "2026-12-31",
-   "remarks": "-",
-   "places": 12
-  },
-  {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PGPS,OBSE|Day|2026-12-29|2026-12-31",
    "code": "PGPS,OBSE",
@@ -1215,7 +1189,20 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2026-12-29|2026-12-31",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2026-12-29",
+   "end": "2026-12-31",
+   "remarks": "-",
+   "places": 13
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "PPPS|Day|2026-12-30|2026-12-31",
    "code": "PPPS",
@@ -1228,7 +1215,7 @@
    "places": 18
   },
   {
-   "snapshot_at": "2026-11-25T08:24:00+08:00",
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
    "snapshot_date": "2026-11-25",
    "session": "CSSPB|Day|2026-12-30|2026-12-31",
    "code": "CSSPB",
@@ -1239,6 +1226,487 @@
    "end": "2026-12-31",
    "remarks": "-",
    "places": 18
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2027-01-02|2027-01-03",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-02",
+   "end": "2027-01-03",
+   "remarks": "Weekend Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PGPS,OBSE|Day|2027-01-04|2027-01-07",
+   "code": "PGPS,OBSE",
+   "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-04",
+   "end": "2027-01-07",
+   "remarks": "-",
+   "places": 15
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Evening|2027-01-04|2027-01-09",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Evening",
+   "start": "2027-01-04",
+   "end": "2027-01-09",
+   "remarks": "Evening Class",
+   "places": 15
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-04|2027-01-06",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-04",
+   "end": "2027-01-06",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "MDCTB|Day|2027-01-04|2027-01-05",
+   "code": "MDCTB",
+   "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-04",
+   "end": "2027-01-05",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2027-01-05|2027-01-08",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-05",
+   "end": "2027-01-08",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-05|2027-01-07",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-05",
+   "end": "2027-01-07",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-07|2027-01-09",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-07",
+   "end": "2027-01-09",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2027-01-07|2027-01-09",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-07",
+   "end": "2027-01-09",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-08|2027-01-10",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-11|2027-01-13",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-11",
+   "end": "2027-01-13",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PGPS,OBSE|Day|2027-01-11|2027-01-13",
+   "code": "PGPS,OBSE",
+   "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-11",
+   "end": "2027-01-13",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2027-01-12|2027-01-14",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-12",
+   "end": "2027-01-14",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-12|2027-01-14",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-12",
+   "end": "2027-01-14",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Evening|2027-01-12|2027-01-16",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Evening",
+   "start": "2027-01-12",
+   "end": "2027-01-16",
+   "remarks": "Evening Class",
+   "places": 14
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "MDCTB|Day|2027-01-13|2027-01-15",
+   "code": "MDCTB",
+   "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-13",
+   "end": "2027-01-15",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-13|2027-01-15",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-13",
+   "end": "2027-01-15",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2027-01-14|2027-01-16",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-14",
+   "end": "2027-01-16",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-16|2027-01-17",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "remarks": "Weekend Express",
+   "places": 20
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "MDCTB|Day|2027-01-18|2027-01-20",
+   "code": "MDCTB",
+   "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-18",
+   "end": "2027-01-20",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PGPS,OBSE|Evening|2027-01-18|2027-01-23",
+   "code": "PGPS,OBSE",
+   "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Evening",
+   "start": "2027-01-18",
+   "end": "2027-01-23",
+   "remarks": "Evening Class",
+   "places": 14
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PGPS,OBSE|Day|2027-01-18|2027-01-21",
+   "code": "PGPS,OBSE",
+   "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-18",
+   "end": "2027-01-21",
+   "remarks": "-",
+   "places": 15
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2027-01-19|2027-01-20",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-19",
+   "end": "2027-01-20",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-19|2027-01-21",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-19",
+   "end": "2027-01-21",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-21|2027-01-23",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-21",
+   "end": "2027-01-23",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2027-01-21|2027-01-24",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-21",
+   "end": "2027-01-24",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-21|2027-01-23",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-21",
+   "end": "2027-01-23",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "MDCTB|Day|2027-01-23|2027-01-24",
+   "code": "MDCTB",
+   "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-25|2027-01-27",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-25",
+   "end": "2027-01-27",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "HSIS|Day|2027-01-25|2027-01-27",
+   "code": "HSIS",
+   "course": "PWM-Security: Incident Response (Handle Security Incidents and Services)(HSIS)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-25",
+   "end": "2027-01-27",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-26|2027-01-28",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-26",
+   "end": "2027-01-28",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PGPS,OBSE|Day|2027-01-26|2027-01-28",
+   "code": "PGPS,OBSE",
+   "course": "PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)(PGPS,OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-26",
+   "end": "2027-01-28",
+   "remarks": "Express",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "PRSF|Day|2027-01-27|2027-01-29",
+   "code": "PRSF",
+   "course": "PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)(PRSF)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "MDCTB|Day|2027-01-28|2027-01-30",
+   "code": "MDCTB",
+   "course": "PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)(MDCTB)",
+   "level": "Senior Security Officer Courses (SSO)",
+   "timing": "Day",
+   "start": "2027-01-28",
+   "end": "2027-01-30",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-28|2027-01-30",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-28",
+   "end": "2027-01-30",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "RTT|Day|2027-01-29|2027-01-31",
+   "code": "RTT",
+   "course": "PWM-Security: Threat Observation (Recognise Terrorist Threats)(RTT)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-29",
+   "end": "2027-01-31",
+   "remarks": "-",
+   "places": 19
+  },
+  {
+   "snapshot_at": "2026-11-25T13:35:00+08:00",
+   "snapshot_date": "2026-11-25",
+   "session": "OBSE|Day|2027-01-30|2027-01-31",
+   "code": "OBSE",
+   "course": "PWM-Security: Access Control Management (Operate Basic Security Equipment)(OBSE)",
+   "level": "Basic Security Officer Courses (SO)",
+   "timing": "Day",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "remarks": "Weekend Express",
+   "places": 19
   }
  ]
 }
